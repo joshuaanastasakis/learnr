@@ -3,7 +3,7 @@
 #.gitignore
 build/static/css/*.map
 build/static/js/*.map
-.test-git-ignore.txt
+test-git-ignore.txt
 
 # dependencies
 /.pnp
